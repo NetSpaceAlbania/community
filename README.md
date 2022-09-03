@@ -13,3 +13,12 @@ nese doni te beni update apo ta aksesoni ne web "index.html" eshte file qe duhet
 
 momentalisht kjo eshte thjesht nje draft nuk eshte diskutar akoma ne komunitet 
 feel free to create ur branches and propose ur ideas 
+
+
+# Kontribute
+Per te kontribuar ne kete projek apo te tjere dhe te beheni pjese e listes se kontribuesve, shpallin kerkesen tek rubrika perkatese ose kontaktoni community-moderater ne Discord server. Me pas si pjese e listes se kontribuesve, me disa hapa bazike mund te kontribuoni ne repo.
+
+git clone git@github.com:[HackerspaceAlbania/community.git](https://github.com/)
+
+
+
